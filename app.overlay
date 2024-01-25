@@ -1,0 +1,19 @@
+/{
+    aliases {
+        led0 = &user_led_0;
+        // button0 = &user_button_0;
+    };
+
+    leds {
+        compatible = "gpio-leds";
+        user_led_0:led_0 {
+            gpios = < &gpioi 1 GPIO_ACTIVE_LOW >;
+        };
+    };
+    // buttons {
+    //     compatible = "gpio-keys";
+    //     user_button_0: button_0 {
+    //         gpios = < &gpioi 11 GPIO_ACTIVE_HIGH >;
+    //     };
+    // };
+};
