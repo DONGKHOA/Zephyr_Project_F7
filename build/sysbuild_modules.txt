@@ -1,1 +1,0 @@
-"mcuboot":"/home/dongkhoa/zephyrproject/bootloader/mcuboot":"/home/dongkhoa/zephyrproject/bootloader/mcuboot/boot/zephyr/sysbuild"
