@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": 
+    {
+        "PATH": "/home/dongkhoa/zephyrproject/zephyr/scripts;${env:PATH}",
+        "ZEPHYR_BASE": "/home/dongkhoa/zephyrprojec/zephyr"
+    }
+}
